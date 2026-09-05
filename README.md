@@ -9,7 +9,8 @@
 
 ## 영상 / 발표 자료
 - [![유튜브](https://img.youtube.com/vi/KkahjDrRlY4/maxresdefault.jpg)](https://www.youtube.com/watch?v=KkahjDrRlY4)
-- 📑 포트폴리오 (기술 딥다이브 포함): [노션 링크]
+- 📑 포트폴리오 [PDF](https://drive.google.com/file/d/1frHuvi-S3RSA4ddieVtp_PyB7DU1B2uL/view?usp=drive_link)
+- 📑 포트폴리오 [PPT](https://docs.google.com/presentation/d/12xlpemVK9AF_kASMzl9C3ibNMOBrV1KR/edit?usp=drive_link&ouid=112638998788497552413&rtpof=true&sd=true)
 
 ## 팀원 소개
 - 최영우(팀장): 전투 카메라/연출/전투 UI
